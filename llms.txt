@@ -1,0 +1,81 @@
+# BC 新移民落地 90 天（微出国 VeryVisa）
+
+> 给已经在 BC 的新移民、工签和学签家庭：SIN、MSP、驾照 90 天期限、报税身份、儿童福利、孩子入学，按时间线排成中文清单，附官方链接。
+
+网址：https://veryvisa.github.io/canada-newcomer-first-90-days/
+提供方：微出国（VeryVisa），为海外华人生活提供专业、负责、AI 加持下的优质、快捷服务。
+咨询：页面底部表单，或邮件 veryvisa.com@gmail.com（首次沟通免费）
+信息截至：2026-10-05
+
+## 这几种人最常来问
+刚拿到枫叶卡的家庭 落地后一堆事：SIN、医保、银行、孩子学校，每件都不知道先后。 刚到 BC 上班的工签持有人 医保有等待期，公司福利又要等试用期，中间这段怎么办。 在 BC 读书的学签家庭 想知道哪些事跟学校有关、哪些得自己办，驾照和报税是否也要管。 带着老人和孩子的三代同堂家庭 孩子入学、老人看病、家庭医生登记，三条线同时开。 朋友说一套、网上说一套的人 每个人的经验都对，但每个人的身份和到达时间都不一样。
+
+## 一个常见的情形：什么都要办，什么都像急事
+下面是一个常见情形，不是具体某个人的故事。 一家三口九月落地温哥华，先生下个月就上班，孩子等着进学校。他们在朋友圈里收藏了八篇清单，每篇的先后顺序都不同。有人说先办银行，有人说先换驾照，有人说 MSP 反正要等，不急。 把这些事按「有没有期限」和「别的事要不要靠它」排一下，其实很清楚：SIN 和 MSP 是别的事的前提，先办；驾照有 90 天的期限，要算好日子；报税不急着第一天做，但福利要靠它；孩子入学则要跟学区联系。 落地的前 90 天，最贵的不是哪件事办错了，而是该早办的事被拖到了期限之后。
+
+## 时间线：第 1 周
+- 申请 SIN。 不收费，网上申请最快；要主要身份证件和带姓名、出生日期的第二证件。见 Service Canada：申请 SIN。 - 提交 MSP 登记。 BC 省说明，新居民的等待期是当月剩余天数加两个月，所以越早交越早开始算。登记后要完成 BC 服务卡手续，成年人需要到 ICBC 驾照办事处拍照。见 BC 省：MSP 登记。 - 想好等待期的医疗安排。 MSP 生效前没有省医保，医疗费要自己承担，可以考虑买过渡期医疗保险；怎么读条款见 FCAC：健康保险。 - 登记 Health Connect Registry。 想要家庭医生或执业护士，可以在 HealthLink BC 在线登记，也可以拨 8-1-1，有 130 多种语言的翻译。
+
+## 时间线：第 1 个月
+- 孩子入学登记。 联系所在学区，需要孩子出生日期、你的居民身份、居住地址的文件，以及疫苗接种记录。很多学校有新移民支持项目和英语学习课。见 BC 教育部：欢迎来到 BC。 - 申请 CCB（有孩子的话）。 用 RC66 表一并申请联邦和省的项目；BC 家庭福利会在登记 CCB 后自动跟上。临时居民需先住满 18 个月。见 CRA：CCB 申请前须知。 - 记下落地日期和落地时的情况。 这是 CRA 判断你什么时候成为税务居民的起点。见 CRA：新移民与 CRA。
+
+## 时间线：前 90 天
+- 换驾照，有 90 天期限。 ICBC 说明，搬到 BC 后有 90 天把有效的外国驾照换成 BC 驾照；有些地区的驾照免考，其他的要考知识考试和路考。先查你的驾照在不在「驾照互换地区」列表里。见 ICBC：从国外搬到 BC。 - 想清楚报税。 对大多数新移民，第一份税在成为居民的次年报，4 月 30 日前；但福利要靠报税，建议及时报。 - 保险检查一遍。 MSP 生效后，看看雇主福利和自己的保险有没有缺口；读条款时，可以参考 FCAC 的保险页面。
+
+## 我们做什么，不做什么
+我们做 - 按你的身份和到达日期，把这份清单排成你自己的版本。 - 提醒哪几件有期限，哪几件是别的事的前提。 - 告诉你每一项去哪个官方页办。 我们不做 - 不做移民申请和身份意见，不代办 SIN、MSP、驾照。 - 不给税务和保险意见。 - 不收费，不向任何机构收介绍费。
+
+## 怎么开始
+1. 在下面表单留下邮箱，写明身份类型、到达日期、家里情况。 2. 我们回你一页按你的情况排好的清单。 3. 你自己去官方页面办理；卡住的地方，再回信问。 4. 需要持牌专业人士（保险、税务、移民）时，我们可以介绍可在公开名录核实的人，由你自己决定。
+
+## 收费
+清单和基础回复免费。我们不代办，也不收转介费。
+
+## 常见问题
+
+问：刚落地，最先该办什么？
+答：通常先办 SIN（工作和很多政府福利都要用），同时马上提交 MSP 登记，因为 MSP 有等待期。其余的，按下面时间线排。
+
+问：SIN 怎么申请，要钱吗？
+答：不收费。可以网上、邮寄或到 Service Canada 办事处申请，网上处理最快；需要主要身份证件和有姓名与出生日期的第二证件，证件不是英文或法文的要附认证翻译。见 Service Canada：申请 SIN。
+
+问：MSP 要等多久才生效？
+答：BC 省说明，新居民需要等待的时间是「当月剩余天数，再加两个月」。新到加拿大的人要马上申请。登记后还要完成 BC 服务卡手续；18 岁半以上的成年人需要带证件到 ICBC 驾照办事处拍照。见 BC 省：MSP 登记。
+
+问：MSP 生效之前看病怎么办？
+答：等待期内没有 MSP 保障，医疗费要自己承担，可以考虑买过渡期的医疗保险。怎么读保险条款，见 FCAC：健康保险；买保险本身需要持牌顾问，我们只帮你读懂条款。
+
+问：国内驾照还能用多久？
+答：ICBC 说明，搬到 BC 后有 90 天把有效的外国驾照换成 BC 驾照。有些国家和地区的驾照可以直接换、不用考试，其他的需要考知识考试和路考。你的驾照属于哪一类，要查 ICBC 的「驾照互换地区」列表。见 ICBC：从国外搬到 BC。
+
+问：刚来第一年要不要报税？
+答：CRA 说明，对大多数新移民，从落地第一天起就成为税务居民，但要到成为居民的次年才需要报第一份税，比如 2025 年到的，2026 年 4 月 30 日前报 2025 年的税。不过为了拿福利，通常建议及时报。见 CRA：新移民与 CRA。
+
+问：不报税就领不了福利吗？
+答：CRA 说明，成为税务居民后，你和家人可以在符合条件时申请福利和抵免，包括 Canada Groceries and Essentials Benefit，甚至在第一次报税之前就可以申请。有孩子的家庭，用 RC66 表申请 CCB，同时包括联邦和省的项目。
+
+问：工签、学签家庭能领 CCB 吗？
+答：CRA 说明，临时居民要在加拿大住满 18 个月，并持有第 19 个月有效的许可，才符合身份要求，其他条件也要满足。
+
+问：孩子怎么入学？
+答：BC 省说明，给孩子在公立学校登记，要联系所在的学区；会要求出示孩子出生日期、你的居民身份和居住地址的文件，以及疫苗接种记录。很多学校有新移民支持项目和英语学习课。见 BC 教育部：欢迎来到 BC。
+
+问：你们是移民顾问吗？可以帮我办身份吗？
+答：不是。这个站只做落地清单整理，不代办任何移民申请，也不提供移民意见。需要身份相关帮助，请找 CICC 持牌顾问或律师。
+
+问：我还在国内、没有出发，能用吗？
+答：这个清单只针对已经在 BC 的人。还没来的人，规则和时间线不一样，这里先不覆盖。
+
+## 参考资料
+- Service Canada：申请 SIN: https://www.canada.ca/en/employment-social-development/services/sin/apply.html
+- BC 省：MSP 登记: https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/how-to-enrol
+- ICBC：从国外搬到 BC（90 天换驾照）: https://icbc.com/driver-licensing/moving-bc/moving-from-another-country
+- CRA：新移民与 CRA: https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html
+- CRA：Canada Child Benefit 申请前须知: https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html
+- BC 省：B.C. family benefit: https://www2.gov.bc.ca/gov/content/family-social-supports/affordability/family-benefit
+- BC 教育部：欢迎来到 BC（入学登记）: https://www2.gov.bc.ca/assets/gov/education/administration/kindergarten-to-grade-12/diverse-student-needs/educationwelcomeletter_jan2016_english_final.pdf
+- HealthLink BC：Health Connect Registry: https://www.healthlinkbc.ca/health-connect-registry
+- WelcomeBC：新移民落地信息: https://www.welcomebc.ca/
+- FCAC：健康保险: https://www.canada.ca/en/financial-consumer-agency/services/insurance/health.html
+
+本站是一般信息清单，不构成移民、税务或法律意见；微出国不是持牌移民顾问，不代办任何申请。规则会变，一切以官方页面为准。
